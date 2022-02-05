@@ -54,12 +54,57 @@ Textbook readings are supplemented by MIT notes on structural mechanics, various
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 20% |
-| Quiz I | 20% |
-| Quiz II | 20% |
-| Final Exam | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz I
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz II
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Homework and Reading Assignment Practices
 -----------------------------------------
@@ -73,31 +118,270 @@ Homework and Reading Assignment Practices
 Calendar
 --------
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 |  {{< br >}}{{< br >}} Course introduction {{< br >}}{{< br >}} Reactor types {{< br >}}{{< br >}}  |
-| 2 | Reactor heat generation |
-| 3 |  {{< br >}}{{< br >}} Thermal design principles {{< br >}}{{< br >}} Conservation equations {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Incompressible fluid, ideal gas and pure substance models {{< br >}}{{< br >}} Thermodynamic analysis of nuclear plants: Power cycle examples {{< br >}}{{< br >}}  |
-| 5 | Thermodynamic analysis of nuclear plants: Containment |
-| 6 | Thermodynamic analysis of nuclear plants: Containment (cont.) |
-| 7 | Thermodynamic analysis of nuclear plants: Other examples |
-| 8 | Thermal analysis of fuel elements: Temperature distributions |
-| 9 | Thermal analysis of fuel elements: Burnup effects and maximum temperature in the core |
-| 10 | **Quiz 1**: In class, open book, all material from Lecture 7 |
-| 11 | Single phase thermal-hydraulics: Introduction |
-| 12 | Single phase thermal-hydraulics: Fluid dynamics and heat transfer |
-| 13 | Single phase thermal-hydraulics: Loop analysis, turbulence |
-| 14 | Two phase flow: Basic parameters and models |
-| 15 | Two phase flow: Pressure drop and instabilities |
-| 16 | Two phase flow: Critical flow |
-| 17 | Two phase heat transfer: Pool boiling |
-| &nbsp; | **Quiz 2**: Take-home, open book, all material from Lectures 8–13 |
-| 18 | Two phase heat transfer: Flow boiling |
-| 19 | Two phase heat transfer: Boiling crises and post-boiling-crisis heat transfer |
-| 20 | Two phase flow and heat transfer: Condensation |
-| 21 | Two phase flow and heat transfer: In-class demonstrations of flow regimes, instabilities, boiling, natural circulation |
-| 22 | Structural mechanics: Elasticity fundamentals and thin-shell theory |
-| 23 | Structural mechanics: Stress categorization and ASME Codes |
-| 24 | Structural mechanics: Creep, fatigue |
-| &nbsp; | **Final exam**: 3 hours, open book, covers entire course with specific attention to material of Lectures 13–25
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Course introduction
+
+Reactor types
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Reactor heat generation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Thermal design principles
+
+Conservation equations
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Incompressible fluid, ideal gas and pure substance models
+
+Thermodynamic analysis of nuclear plants: Power cycle examples
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Thermodynamic analysis of nuclear plants: Containment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Thermodynamic analysis of nuclear plants: Containment (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Thermodynamic analysis of nuclear plants: Other examples
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Thermal analysis of fuel elements: Temperature distributions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Thermal analysis of fuel elements: Burnup effects and maximum temperature in the core
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+**Quiz 1**: In class, open book, all material from Lecture 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Single phase thermal-hydraulics: Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Single phase thermal-hydraulics: Fluid dynamics and heat transfer
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Single phase thermal-hydraulics: Loop analysis, turbulence
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Two phase flow: Basic parameters and models
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Two phase flow: Pressure drop and instabilities
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Two phase flow: Critical flow
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Two phase heat transfer: Pool boiling
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**Quiz 2**: Take-home, open book, all material from Lectures 8–13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Two phase heat transfer: Flow boiling
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Two phase heat transfer: Boiling crises and post-boiling-crisis heat transfer
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Two phase flow and heat transfer: Condensation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Two phase flow and heat transfer: In-class demonstrations of flow regimes, instabilities, boiling, natural circulation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Structural mechanics: Elasticity fundamentals and thin-shell theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Structural mechanics: Stress categorization and ASME Codes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Structural mechanics: Creep, fatigue
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**Final exam**: 3 hours, open book, covers entire course with specific attention to material of Lectures 13–25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
