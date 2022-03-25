@@ -46,7 +46,7 @@ Reactor types
 {{< tdopen >}}
 
 
-Slides: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Introduction to Power Reactor Types (PDF - 5.4MB)]({{< baseurl >}}/resources/mit22_312f15_lec01)
+Slides: [Introduction to Power Reactor Types (PDF - 5.4MB)]({{< baseurl >}}/resources/mit22_312f15_lec01)
 
 \[T&K\] Chapter 1.
 
@@ -617,4 +617,4 @@ Todreas, N. E., and M. S. Kazimi. _Nuclear Systems II: Elements of Thermal Hydra
 
 Harvey, J. F. _Theory and Design of Pressure Vessels_. Van Nostrand Reinhold, 1985. ISBN: 9780442232481.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_ASME Boiler & Pressure Vessel Code, An International Code_." (PDF)](http://files.asme.org/catalog/codes/printbook/13883.pdf) Section II and Section III (Subsections NB and NH), 2007.
+["_ASME Boiler & Pressure Vessel Code, An International Code_." (PDF)](http://files.asme.org/catalog/codes/printbook/13883.pdf) Section II and Section III (Subsections NB and NH), 2007.
