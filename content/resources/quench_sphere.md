@@ -5,6 +5,7 @@ description: This resource contains information regarding Occurance of critical 
   off of an electrically heated wire.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-312-engineering-of-nuclear-reactors-fall-2015/b1f7725fa55649147b8bdb03b3a49b52_quench_sphere.wmv
 file_type: video/x-ms-wmv
+parent_uid: 4ac2547f-e6a9-d938-44cb-8b3e57bcea65
 resourcetype: Other
 title: quench_sphere.wmv
 uid: b1f7725f-a556-4914-7b8b-db03b3a49b52
